@@ -14,8 +14,5 @@ Kondis is Danish/Norwegian slang for kondensator, which means capacitor..
 
 ## mappings
 
-`t` opens tolerance info sheet
-`q` closes the kondis TUI 
-`<C>-c` closes the kondis TUI 
-`<C>-q` closes the kondis TUI 
-`<Del>` closes the kondis TUI 
+* `t` : opens tolerance info sheet 
+* `q` `<C>-c` `<C>-q` `<Del>` : closes the kondis TUI 
